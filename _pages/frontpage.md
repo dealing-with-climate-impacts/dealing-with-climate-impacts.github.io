@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /News
 layout: home
 title: The Workshop
 list_title: News
