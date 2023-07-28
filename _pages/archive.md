@@ -16,6 +16,4 @@ Additional Information to be provided at registration site:
 - Travel expenses according to the rules of Bosch alumni network: ??
 
 
-## [Link to registration](https://form.jotform.com/232072053586353)
-
-[Register here: https://form.jotform.com/232072053586353](https://form.jotform.com/232072053586353)
+## [Click here to register](https://form.jotform.com/232072053586353)
