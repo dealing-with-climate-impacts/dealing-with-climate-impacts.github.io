@@ -7,10 +7,9 @@ theme: minima
 base_url: /dealing-with-climate-impacts
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
-rss: rss
+twitter_username: bea_ellerhoff
+github_username: bellerhoff
+linkedin_username: beatrice-ellerhoff
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
