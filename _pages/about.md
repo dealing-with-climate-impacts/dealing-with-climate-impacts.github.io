@@ -4,6 +4,4 @@ layout: page
 title: About me
 ---
 
-More details about me on this page with links to my social media profiles and so on.
-
-![](https://www.jorgesanz.net/assets/imgs/me/jsanz_small4.png)
+Beatrice Ellerhoff (climate scientist, science communicator) and Maximilian Jungmann (political scientist, entrepreneur) are BAN-members with skills in science communication, moderation, presentation, and workshop organization. Beatrice was involved in the organization of the KollegiAL conferences supported by the BAN (KollegiAL conference) and Maximilian participated as facilitator at the Global Change Academy before. 
