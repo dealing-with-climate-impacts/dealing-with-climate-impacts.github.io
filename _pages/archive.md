@@ -1,5 +1,5 @@
 ---
-permalink: /archive
+permalink: /register
 layout: page
 title: Registration
 ---
