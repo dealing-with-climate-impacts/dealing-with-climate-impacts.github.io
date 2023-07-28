@@ -1,7 +1,7 @@
 ---
 permalink: /news
 layout: home
-title: The Workshop
+title: News
 list_title: News
 ---
 
