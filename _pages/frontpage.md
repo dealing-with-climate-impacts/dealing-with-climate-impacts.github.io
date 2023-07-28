@@ -23,3 +23,7 @@ The workshop will facilitate networking between the BAN climate change impact fi
 ## Schedule 
 
 The workshop contains two future labs (one afternoon, one morning session) in which the participants will assess the local impacts of global warming and develop ideas to be implemented for closing the knowledge-action gap in their projects. In these future labs, common methods will be used that combine design thinking, co-creation and scenario techniques to develop an outcome product in the form of a policy paper that can be shared within the BAN network and potentially beyond.  
+
+## Team
+
+Beatrice Ellerhoff (climate scientist, science communicator) and Maximilian Jungmann (political scientist, entrepreneur) are BAN-members with skills in science communication, moderation, presentation, and workshop organization. Beatrice was involved in the organization of the KollegiAL conferences supported by the BAN (KollegiAL conference) and Maximilian participated as facilitator at the Global Change Academy before.
