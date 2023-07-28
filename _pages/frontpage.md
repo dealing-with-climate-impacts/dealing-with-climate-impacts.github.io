@@ -5,7 +5,7 @@ title: The Workshop
 list_title: News
 ---
 
-** Dealing with Climate Impacts: Fostering Climate Action and Building Resilience - 4-days transdisciplinary workshop in Heidelberg funded by the Bosch Alumni Network **
+**Dealing with Climate Impacts: Fostering Climate Action and Building Resilience - 4-days transdisciplinary workshop in Heidelberg funded by the Bosch Alumni Network**
 
 <img src="./assets/imgs/johannes-plenio-600dw3-1rv4-unsplash.png" width="800px">
 
