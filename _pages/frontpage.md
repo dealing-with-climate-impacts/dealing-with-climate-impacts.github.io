@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: Dealing with Climate Impacts: Fostering Climate Action and Building Resilience 
+title: Welcome
 list_title: News
 ---
 
