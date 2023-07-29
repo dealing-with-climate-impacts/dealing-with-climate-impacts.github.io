@@ -19,16 +19,18 @@ Global warming affects living-conditions on Earth. The civil society and politic
 
 The workshop will facilitate networking between the BAN climate change impact field and the BAN science cluster, as well as the outreach of the BAN network. There are also connecting factors with more clusters and impact fields such as sustainable living spaces, which we want to address and strengthen. Moreover, the workshop will set the foundation for strengthened collaboration at the science-policy interface and thus provide direct connection points for already established city networks in the field of climate action, such as the C40 or the Global Covenant of Mayors. 
 
-## Date and venue 
+## Information
 
-- 23.-26.11.2023, Heidelberg, Germany
-- 15 participants and up to 5 BAN-internal organizers / experts / facillitators /helpers 
-- Housing at the Youth Hostel in Heidelberg  
-- Conference rooms at Heidelberg Center for the Environment (Marsiliuskolleg) and visit at Klimaarena in Sinsheim
+- Workshop language: English
+- Date: 23.-26.11.2023, Heidelberg, Germany
+- approx. 20 participants
+- Lodging (Single rooms at the Youth Hostel in Heidelberg) and food (vegan / vegetarian) will be covered
+- Travel allowance will be partially covered (e.g., approx. 75% for 2nd class train tickets in Germany) 
+- Conference rooms at Heidelberg Center for the Environment [Marsiliuskolleg](https://www.hce.uni-heidelberg.de/en) and visit at the [Klimaarena](https://klima-arena.de/) in Sinsheim
 
 ## Schedule 
 
-The workshop contains two future labs (one afternoon, one morning session) in which the participants will assess the local impacts of global warming and develop ideas to be implemented for closing the knowledge-action gap in their projects. In these future labs, common methods will be used that combine design thinking, co-creation and scenario techniques to develop an outcome product in the form of a policy paper that can be shared within the BAN network and potentially beyond.  
+The workshop contains two future lab workshops in which the participants will assess the local impacts of global warming and develop ideas to be implemented for closing the knowledge-action gap in their projects. In these future labs, common methods will be used that combine design thinking, co-creation and scenario techniques to develop an outcome product in the form of a policy paper that can be shared within the BAN network and potentially beyond.  
 
 |       Day  |     Session   |     Agenda                                                                                                                                                       |
 |------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
