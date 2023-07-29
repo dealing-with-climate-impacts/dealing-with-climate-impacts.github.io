@@ -33,9 +33,9 @@ The workshop contains two future labs (one afternoon, one morning session) in wh
 |       Day  |     Session   |     Agenda                                                                                                                                                       |
 |------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Thur       |   Evening     |   Arrival and Check-In <br /> Keynote + Discussion: About Gaps – Challenges and Opportunities of Local Climate Action                                                 |
-| Fri        |   Morning     |   Future labs session 1: Workshops: Local impacts of climate change: <br /> 1. Heat <br /> 2. Mental health. <br /> Use cases with a focus on climate effects on children   |
+| Fri        |   Morning     |   Future labs session 1: Local impacts of climate change <br /> 1. Heat <br /> 2. Mental health. <br /> Use cases with a focus on climate effects on children   |
 |            |   Afternoon   |   Visit of the Klimaarena <br /> Seeing through their eyes: Young Voices (in collaboration with youth advisory board)                                                 |
-| Sat        |   Morning     |   Future labs session 2: Workshops: From Knowledge to Action: <br /> Identification of bottlenecks and development of potential solutions                        |
+| Sat        |   Morning     |   Future labs session 2: From knowlege to action <br /> Identification of bottlenecks and development of potential solutions                        |
 |            |   Afternoon   |   Summary, preparation of outcome product and socializing                                                                                                                       |
 | Sun        |   Morning     |   Checkout                                                                                                                                                       |
 
