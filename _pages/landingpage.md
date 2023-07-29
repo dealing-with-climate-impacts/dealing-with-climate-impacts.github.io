@@ -23,7 +23,8 @@ Global warming affects living-conditions on Earth. The civil society and politic
 - Lodging (Single rooms at the Youth Hostel in Heidelberg) and food (vegan / vegetarian) will be covered
 - Travel allowance will be partially covered (e.g., approx. 75% for 2nd class train tickets in Germany) 
 - Conference rooms at Heidelberg Center for the Environment [Marsiliuskolleg](https://www.hce.uni-heidelberg.de/en) and visit at the [Klimaarena](https://klima-arena.de/) in Sinsheim
-- **Please fill [this form](https://form.jotform.com/232072053586353) to apply for the workshop.**
+
+**Please fill [this form](https://form.jotform.com/232072053586353) to apply for the workshop.**
 
 ### Schedule 
 
