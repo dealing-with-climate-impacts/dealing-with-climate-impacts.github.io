@@ -32,13 +32,23 @@ The workshop contains two future labs (one afternoon, one morning session) in wh
 
 |       Day  |      Session  |                                                                                Agenda                                                                            |
 |:----------:|:-------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|     Day 1  |   Evening     |   Arrival and Check-In    Keynote + Discussion: About Gaps – Challenges and Opportunities of Local Climate Action                                                |
-|     Day 2  |   Morning     |   Future labs session 1  Four Parallel Workshops: Local impacts of climate change  Heat  Mental health   Use cases with a focus on climate effects on children   |
+| Day 1      |   Evening     |   Arrival and Check-In    Keynote + Discussion: About Gaps – Challenges and Opportunities of Local Climate Action                                                |
+| Day 2      |   Morning     |   Future labs session 1  Four Parallel Workshops: Local impacts of climate change  Heat  Mental health   Use cases with a focus on climate effects on children   |
 |            |   Afternoon   |   Visit of the Klimaarena + Seeing through their eyes: Young Voices (in collaboration with youth advisory board)                                                 |
-|     Day 3  |   Morning     |   Future labs session 2  Parallel Workshops: From Knowledge to Action  Identification of bottlenecks   Development of potential solutions                        |
+| Day 3      |   Morning     |   Future labs session 2  Parallel Workshops: From Knowledge to Action  Identification of bottlenecks   Development of potential solutions                        |
 |            |   Afternoon   |   Summary, outcome product and socializing                                                                                                                       |
-|     Day 4  |   Morning     |   Checkout                                                                                                                                                       |
+| Day 4      |   Morning     |   Checkout                                                                                                                                                       |
 
 ## Team
 
-Beatrice Ellerhoff (climate scientist, science communicator) and Maximilian Jungmann (political scientist, entrepreneur) are BAN-members with skills in science communication, moderation, presentation, and workshop organization. Beatrice was involved in the organization of the KollegiAL conferences supported by the BAN (KollegiAL conference) and Maximilian participated as facilitator at the Global Change Academy before.
+Dr. Beatrice Ellerhoff (physicst, climate scientist, science communicator) BAN-members with skills in science communication, moderation, presentation, and workshop organization. Beatrice was involved in the organization of the KollegiAL conferences supported by the BAN (KollegiAL conference) and Maximilian 
+
+Dr. Maximilian Jungmann (political scientist, entrepreneur) are participated as facilitator at the Global Change Academy before.
+
+## Acknowledgment
+
+BAN Science Cluster Moderator Raphael Karutz and Heinrich Zozman. 
+
+BAN Sustainbility Cluster Moderator Silvia
+
+Bosch alumni network for financial support
