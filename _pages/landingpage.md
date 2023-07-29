@@ -41,11 +41,11 @@ The workshop contains two future lab workshops in which the participants will as
 
 ### Team
 
+Dr. Maximilian Jungmann (political scientist, strategy consultant) Your text here
+
+Dr. Kathrin Zanger (your text here)
+
 Dr. Beatrice Ellerhoff (physicst, climate scientist, science communicator) dedicated to applying research to real-world solutions. Working in the field of greenhouse gas monitoring at Deutscher Wetterdienst. Expert in temperature variability, local climate change and extremes.
-
-Dr. Maximilian Jungmann (political scientist, strategy consultant) 
-
-Dr. Kathrin Zanger 
 
 ### Acknowledgment
 
