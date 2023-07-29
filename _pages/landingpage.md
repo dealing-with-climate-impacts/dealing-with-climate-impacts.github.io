@@ -41,14 +41,17 @@ The workshop contains two future labs (one afternoon, one morning session) in wh
 
 ## Team
 
-Dr. Beatrice Ellerhoff (physicst, climate scientist, science communicator) BAN-members with skills in science communication, moderation, presentation, and workshop organization. Beatrice was involved in the organization of the KollegiAL conferences supported by the BAN (KollegiAL conference) and Maximilian 
+Dr. Beatrice Ellerhoff (physicst, climate scientist, science communicator) dedicated to applying research to real-world solutions. Working in the field of greenhouse gas monitoring at Deutscher Wetterdienst. Expert in temperature variability, local climate change and extremes.
 
-Dr. Maximilian Jungmann (political scientist, entrepreneur) are participated as facilitator at the Global Change Academy before.
+Dr. Maximilian Jungmann (political scientist, strategy consultant) 
+
+Dr. Kathrin Zanger 
 
 ## Acknowledgment
 
-BAN Science Cluster Moderator Raphael Karutz and Heinrich Zozman. 
+We thank Raphael Karutz (Moderator BAN Science Cluster, Researcher Urban Sustainability), Heinrich Zozman (Moderator BAN Science Cluster, Expert on Environmental Economics), Silvia Chakarova (Moderator BAN Sustainable living spaces, Urban planner) for the support in planning this workshop. 
 
-BAN Sustainbility Cluster Moderator Silvia
+We acknlowledge  financial support from the [Bosch alumni network](https://www.boschalumni.net/).
 
-Bosch alumni network for financial support
+<img src="./assets/imgs/Ban_logo.png" width="200px">
+
