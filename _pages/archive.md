@@ -8,4 +8,4 @@ title: Application
 
 **Please fill [this form](https://form.jotform.com/232072053586353) to apply for the workshop.**
 
-Please contact us if you have any questions: [beatrice.ellerhoff@posteo.de](mailto: beatrice.ellerhoff@posteo.de)
+Please contact us if you have any questions: [unsere.mail@test.de](mailto: unser.mail@test.de)
