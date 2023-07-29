@@ -1,19 +1,20 @@
 ---
 permalink: /register
 layout: page
-title: Registration
+title: Application
 ---
 
-## Information
+## Join us for our workshop: Dealing with climate impacts 
 
-Additional Information to be provided at registration site:
-
-- Agenda
 - Workshop language: English
-- Registration Deadline: 30.09.24
-- Single rooms reserved in Youth Hostel (vegan/vegetarian breakfast)
-- Lunch will be vegan, and dinner will be at restaurants with vegan/vegetarian options
-- Travel expenses according to the rules of Bosch alumni network: ??
+- Date: 23.-26.11.2023, Heidelberg, Germany
+- approx. 20 participants
+- Lodging (Single rooms at the Youth Hostel in Heidelberg) and food (vegan / vegetarian) will be covered
+- Travel allowance will be partially covered (e.g., approx. 75% for 2nd class train tickets in Germany)
+- Conference rooms at Heidelberg Center for the Environment Marsiliuskolleg and visit at the Klimaarena in Sinsheim
 
+## [Click here to fill the application form](https://form.jotform.com/232072053586353)
 
-## [Click here to register](https://form.jotform.com/232072053586353)
+Please contact us if you have any questions:
+
+[beatrice.ellerhoff@posteo.de](mailto: beatrice.ellerhoff@posteo.de)
