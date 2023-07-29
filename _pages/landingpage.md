@@ -30,12 +30,12 @@ The workshop will facilitate networking between the BAN climate change impact fi
 
 The workshop contains two future labs (one afternoon, one morning session) in which the participants will assess the local impacts of global warming and develop ideas to be implemented for closing the knowledge-action gap in their projects. In these future labs, common methods will be used that combine design thinking, co-creation and scenario techniques to develop an outcome product in the form of a policy paper that can be shared within the BAN network and potentially beyond.  
 
-|       Day  |      Session  |                                                                                Agenda                                                                            |
-|:----------:|:-------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|       Day  |     Session   |     Agenda                                                                                                                                                       |
+|------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Thur       |   Evening     |   Arrival and Check-In <br /> Keynote + Discussion: About Gaps – Challenges and Opportunities of Local Climate Action                                                 |
-| Fri        |   Morning     |   Future labs session 1: <br /> Workshops: Local impacts of climate change: <br /> 1. Heat <br /> 2. Mental health. <br /> Use cases with a focus on climate effects on children   |
+| Fri        |   Morning     |   Future labs session 1: Workshops: Local impacts of climate change: <br /> 1. Heat <br /> 2. Mental health. <br /> Use cases with a focus on climate effects on children   |
 |            |   Afternoon   |   Visit of the Klimaarena <br /> Seeing through their eyes: Young Voices (in collaboration with youth advisory board)                                                 |
-| Sat        |   Morning     |   Future labs session 2: <br /> Workshops: From Knowledge to Action: <br /> Identification of bottlenecks and development of potential solutions                        |
+| Sat        |   Morning     |   Future labs session 2: Workshops: From Knowledge to Action: <br /> Identification of bottlenecks and development of potential solutions                        |
 |            |   Afternoon   |   Summary, preparation of outcome product and socializing                                                                                                                       |
 | Sun        |   Morning     |   Checkout                                                                                                                                                       |
 
