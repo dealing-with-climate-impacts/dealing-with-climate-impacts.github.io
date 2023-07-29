@@ -8,7 +8,7 @@ title: The Workshop
 
 Global warming affects living-conditions on Earth. The civil society and political stakeholders on the communal level are therefore faced with the challenge of implementing climate change mitigation and adaptation to protect people from direct and indirect consequences of the climate crisis. This 4-days transdisciplinary workshop for practitioners and scientists aims at developing and evaluating best practices in local climate action by bringing together people engaged in climate action on a societal, political and scientific level.  
 
-## Learn, Connect, and Strengthen Climate Action Efforts 
+### Learn, connect, and strengthen climate action efforts 
 
 - Understand the direct and indirect risks from local climate change
 - Exchange, develop and evaluate ideas to increase efficiency and evaluation of implemented measures at local scale 
@@ -16,7 +16,7 @@ Global warming affects living-conditions on Earth. The civil society and politic
 - Connect with each other and within the BAN to bring together expertise from different disciplines and perspectives
 - Strengthen collaboration at the science-policy interface 
 
-## Participation
+### Participation
 
 - Workshop language: English
 - Date & venue: 23.-26.11.2023, Heidelberg, Germany
@@ -24,7 +24,7 @@ Global warming affects living-conditions on Earth. The civil society and politic
 - Travel allowance will be partially covered (e.g., approx. 75% for 2nd class train tickets in Germany) 
 - Conference rooms at Heidelberg Center for the Environment [Marsiliuskolleg](https://www.hce.uni-heidelberg.de/en) and visit at the [Klimaarena](https://klima-arena.de/) in Sinsheim
 
-## Schedule 
+### Schedule 
 
 The workshop contains two future lab workshops in which the participants will assess the local impacts of global warming and develop ideas to be implemented for closing the knowledge-action gap in their projects. In these future labs, common methods will be used that combine design thinking, co-creation and scenario techniques to develop an outcome product in the form of a policy paper that can be shared within the BAN network and potentially beyond.  
 
@@ -37,7 +37,7 @@ The workshop contains two future lab workshops in which the participants will as
 |            |   Afternoon   |   Summary, preparation of outcome product and socializing                                                                                                                       |
 | Sun        |   Morning     |   Checkout                                                                                                                                                       |
 
-## Team
+### Team
 
 Dr. Beatrice Ellerhoff (physicst, climate scientist, science communicator) dedicated to applying research to real-world solutions. Working in the field of greenhouse gas monitoring at Deutscher Wetterdienst. Expert in temperature variability, local climate change and extremes.
 
@@ -45,7 +45,7 @@ Dr. Maximilian Jungmann (political scientist, strategy consultant)
 
 Dr. Kathrin Zanger 
 
-## Acknowledgment
+### Acknowledgment
 
 We thank Raphael Karutz (Moderator BAN Science Cluster, Researcher Urban Sustainability), Heinrich Zozman (Moderator BAN Science Cluster, Expert on Environmental Economics), and Silvia Chakarova (Moderator BAN Sustainable living spaces, Urban planner) for the support in planning this workshop. 
 
