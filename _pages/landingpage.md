@@ -8,22 +8,18 @@ title: The Workshop
 
 Global warming affects living-conditions on Earth. The civil society and political stakeholders on the communal level are therefore faced with the challenge of implementing climate change mitigation and adaptation to protect people from direct and indirect consequences of the climate crisis. This 4-days transdisciplinary workshop for practitioners and scientists aims at developing and evaluating best practices in local climate action by bringing together people engaged in climate action on a societal, political and scientific level.  
 
-## Learning goals 
+## Learn, Connect, and Strengthen Climate Action Efforts 
 
-- understand the direct and indirect risks from local climate change through extreme heat and flood 
-- exchange, develop and evaluate ideas to increase efficiency and evaluation of implemented measures at local scale 
-- identify the needs of local practitioners and the potential of action-informed science 
-- connect with each other and within the BAN to bring together expertise from different disciplines and perspectives 
+- Understand the direct and indirect risks from local climate change
+- Exchange, develop and evaluate ideas to increase efficiency and evaluation of implemented measures at local scale 
+- Identify needs of local practitioners and the potential of action-informed science 
+- Connect with each other and within the BAN to bring together expertise from different disciplines and perspectives
+- Strengthen collaboration at the science-policy interface 
 
-## Interaction and networking 
-
-The workshop will facilitate networking between the BAN climate change impact field and the BAN science cluster, as well as the outreach of the BAN network. There are also connecting factors with more clusters and impact fields such as sustainable living spaces, which we want to address and strengthen. Moreover, the workshop will set the foundation for strengthened collaboration at the science-policy interface and thus provide direct connection points for already established city networks in the field of climate action, such as the C40 or the Global Covenant of Mayors. 
-
-## Information
+## Participation
 
 - Workshop language: English
-- Date: 23.-26.11.2023, Heidelberg, Germany
-- approx. 20 participants
+- Date & venue: 23.-26.11.2023, Heidelberg, Germany
 - Lodging (Single rooms at the Youth Hostel in Heidelberg) and food (vegan / vegetarian) will be covered
 - Travel allowance will be partially covered (e.g., approx. 75% for 2nd class train tickets in Germany) 
 - Conference rooms at Heidelberg Center for the Environment [Marsiliuskolleg](https://www.hce.uni-heidelberg.de/en) and visit at the [Klimaarena](https://klima-arena.de/) in Sinsheim
