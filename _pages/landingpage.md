@@ -8,13 +8,6 @@ title: The Workshop
 
 Global warming affects living-conditions on Earth. The civil society and political stakeholders on the communal level are therefore faced with the challenge of implementing climate change mitigation and adaptation to protect people from direct and indirect consequences of the climate crisis. This 4-days transdisciplinary workshop for practitioners and scientists aims at developing and evaluating best practices in local climate action by bringing together people engaged in climate action on a societal, political and scientific level.  
 
-## Date and venue 
-
-- 23.-26.11.2023, Heidelberg, Germany
-- 15 participants and up to 5 BAN-internal organizers / experts / facillitators /helpers 
-- Housing at the Youth Hostel in Heidelberg  
-- Conference rooms at Heidelberg Center for the Environment (Marsiliuskolleg) and visit at Klimaarena in Sinsheim
-
 ## Learning goals 
 
 - understand the direct and indirect risks from local climate change through extreme heat and flood 
@@ -22,19 +15,29 @@ Global warming affects living-conditions on Earth. The civil society and politic
 - identify the needs of local practitioners and the potential of action-informed science 
 - connect with each other and within the BAN to bring together expertise from different disciplines and perspectives 
 
+## Interaction and networking 
+
+The workshop will facilitate networking between the BAN climate change impact field and the BAN science cluster, as well as the outreach of the BAN network. There are also connecting factors with more clusters and impact fields such as sustainable living spaces, which we want to address and strengthen. Moreover, the workshop will set the foundation for strengthened collaboration at the science-policy interface and thus provide direct connection points for already established city networks in the field of climate action, such as the C40 or the Global Covenant of Mayors. 
+
+## Date and venue 
+
+- 23.-26.11.2023, Heidelberg, Germany
+- 15 participants and up to 5 BAN-internal organizers / experts / facillitators /helpers 
+- Housing at the Youth Hostel in Heidelberg  
+- Conference rooms at Heidelberg Center for the Environment (Marsiliuskolleg) and visit at Klimaarena in Sinsheim
+
 ## Schedule 
 
 The workshop contains two future labs (one afternoon, one morning session) in which the participants will assess the local impacts of global warming and develop ideas to be implemented for closing the knowledge-action gap in their projects. In these future labs, common methods will be used that combine design thinking, co-creation and scenario techniques to develop an outcome product in the form of a policy paper that can be shared within the BAN network and potentially beyond.  
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-## Interaction and networking 
-
-The workshop will facilitate networking between the BAN climate change impact field and the BAN science cluster, as well as the outreach of the BAN network. There are also connecting factors with more clusters and impact fields such as sustainable living spaces, which we want to address and strengthen. Moreover, the workshop will set the foundation for strengthened collaboration at the science-policy interface and thus provide direct connection points for already established city networks in the field of climate action, such as the C40 or the Global Covenant of Mayors. 
+|       Day  |      Session  |                                                                                Agenda                                                                            |
+|:----------:|:-------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|     Day 1  |   Evening     |   Arrival and Check-In    Keynote + Discussion: About Gaps – Challenges and Opportunities of Local Climate Action                                                |
+|     Day 2  |   Morning     |   Future labs session 1  Four Parallel Workshops: Local impacts of climate change  Heat  Mental health   Use cases with a focus on climate effects on children   |
+|            |   Afternoon   |   Visit of the Klimaarena + Seeing through their eyes: Young Voices (in collaboration with youth advisory board)                                                 |
+|     Day 3  |   Morning     |   Future labs session 2  Parallel Workshops: From Knowledge to Action  Identification of bottlenecks   Development of potential solutions                        |
+|            |   Afternoon   |   Summary, outcome product and socializing                                                                                                                       |
+|     Day 4  |   Morning     |   Checkout                                                                                                                                                       |
 
 ## Team
 
