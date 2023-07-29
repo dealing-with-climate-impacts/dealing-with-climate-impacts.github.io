@@ -32,12 +32,12 @@ The workshop contains two future labs (one afternoon, one morning session) in wh
 
 |       Day  |      Session  |                                                                                Agenda                                                                            |
 |:----------:|:-------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Day 1      |   Evening     |   Arrival and Check-In    Keynote + Discussion: About Gaps – Challenges and Opportunities of Local Climate Action                                                |
-| Day 2      |   Morning     |   Future labs session 1  Four Parallel Workshops: Local impacts of climate change  Heat  Mental health   Use cases with a focus on climate effects on children   |
+| Thur       |   Evening     |   Arrival and Check-In: Keynote + Discussion: About Gaps – Challenges and Opportunities of Local Climate Action                                                 |
+| Fri        |   Morning     |   Future labs session 1: Four Parallel Workshops: Local impacts of climate change: 1. Heat, 2. Mental health. Use cases with a focus on climate effects on children   |
 |            |   Afternoon   |   Visit of the Klimaarena + Seeing through their eyes: Young Voices (in collaboration with youth advisory board)                                                 |
-| Day 3      |   Morning     |   Future labs session 2  Parallel Workshops: From Knowledge to Action  Identification of bottlenecks   Development of potential solutions                        |
-|            |   Afternoon   |   Summary, outcome product and socializing                                                                                                                       |
-| Day 4      |   Morning     |   Checkout                                                                                                                                                       |
+| Sat        |   Morning     |   Future labs session 2: Parallel Workshops: From Knowledge to Action: Identification of bottlenecks and development of potential solutions                        |
+|            |   Afternoon   |   Summary, preparation of outcome product and socializing                                                                                                                       |
+| Sun        |   Morning     |   Checkout                                                                                                                                                       |
 
 ## Team
 
