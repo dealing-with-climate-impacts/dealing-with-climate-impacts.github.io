@@ -4,20 +4,16 @@ layout: page
 title: The Workshop
 ---
 
-**Dealing with Climate Impacts: Fostering Climate Action and Building Resilience**
-
-**A 4-days transdisciplinary workshop in Heidelberg funded by the Bosch Alumni Network**
-
-<img src="./assets/imgs/johannes-plenio-600dw3-1rv4-unsplash.png" width="800px">
+<img src="./assets/imgs/workshop_header.png" width="800px">
 
 Global warming affects living-conditions on Earth. The civil society and political stakeholders on the communal level are therefore faced with the challenge of implementing climate change mitigation and adaptation to protect people from direct and indirect consequences of the climate crisis. This 4-days transdisciplinary workshop for practitioners and scientists aims at developing and evaluating best practices in local climate action by bringing together people engaged in climate action on a societal, political and scientific level.  
 
 ## Date and venue 
 
+- 23.-26.11.2023, Heidelberg, Germany
 - 15 participants and up to 5 BAN-internal organizers / experts / facillitators /helpers 
-- 23.-26.11.2023 
 - Housing at the Youth Hostel in Heidelberg  
-- Conference rooms at HCE (Marsiliuskolleg) and visit at Klimaarena in Sinsheim
+- Conference rooms at Heidelberg Center for the Environment (Marsiliuskolleg) and visit at Klimaarena in Sinsheim
 
 ## Learning goals 
 
