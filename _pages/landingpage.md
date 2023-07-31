@@ -43,7 +43,7 @@ The workshop contains two future lab workshops in which the participants will as
 
 Dr. Maximilian Jungmann (political scientist, strategy consultant) Your text here
 
-Dr. Kathrin Zanger (your text here)
+Dr. med. univ., M.Sc. Kathi Zangerl (Specialist Paediatrician, Global Child Health Advocate and Researcher) dedicated to advancing child health policy concerning global preparedness under climate change. Interested in exploring co-creation methods to develop child-centered adaptation interventions to enhancing child health outcomes amidst the challenges of climate change.
 
 Dr. Beatrice Ellerhoff (physicst, climate scientist, science communicator) dedicated to applying research to real-world solutions. Working in the field of greenhouse gas monitoring at Deutscher Wetterdienst. Expert in temperature variability, local climate change and extremes.
 
