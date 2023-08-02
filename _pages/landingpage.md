@@ -41,7 +41,7 @@ The workshop contains two future lab workshops in which the participants will as
 
 ### Team
 
-Dr. Maximilian Jungmann (political scientist, strategy consultant) Your text here
+Dr. Maximilian Jungmann (political scientist, strategy consultant) is founder and managing director of Momentum Novum. Max is also the Executive Manager of the Heidelberg Center for the Environment at the University of Heidelberg. He holds a PhD in Political Science on health policy challenges of climate change. He teaches on climate policy, leadership, innovation management, negotiation techniques, project management and strategic foresight at the Chair of International Relations and Foreign Policy at the University of Heidelberg, at the Karlsruhe Institute of Technology (KIT), at the Steinbeis Business Academy (SBA), at the Steinbeis School of International Business and Entrepreneurship (SIBE) and at the German Federal Foreign Office. Max is a Climate Reality Leader and served for years on the senior staff of the largest UN simulation in the world, the National Model United Nations New York.
 
 Dr. med. univ., M.Sc. Kathi Zangerl (Specialist Paediatrician, Global Child Health Advocate and Researcher) dedicated to advancing child health policy concerning global preparedness under climate change. Interested in exploring co-creation methods to develop child-centered adaptation interventions to enhancing child health outcomes amidst the challenges of climate change.
 
