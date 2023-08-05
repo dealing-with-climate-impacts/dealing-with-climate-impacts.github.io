@@ -1,7 +1,8 @@
 title: Dealing with climate impacts
 description: "Dealing with Climate Impacts: Fostering Climate Action and Building Resilience - A 4-days transdisciplinary workshop in Heidelberg funded by the Bosch Alumni Network"
-author: "Dealing with climate impacts"
-email: climateimpact@momentumnovum.com
+author:
+  name: "Dealing with climate impacts"
+  email: climateimpact@momentumnovum.com
 
 theme: minima
 
