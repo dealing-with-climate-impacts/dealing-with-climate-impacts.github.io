@@ -21,7 +21,7 @@ Global warming affects living-conditions on Earth. The civil society and politic
 - Workshop language: English
 - Date & venue: 23.-26.11.2023, Heidelberg, Germany
 - Lodging (Single rooms at the Youth Hostel in Heidelberg) and food (vegan / vegetarian) will be covered
-- Travel allowance will be partially covered (e.g., approx. 75% for 2nd class train tickets in Germany) 
+- Travel allowance will be partially covered (according to the BAN rules for reimbursement of travel costs) 
 - Conference rooms at Heidelberg Center for the Environment [Marsiliuskolleg](https://www.hce.uni-heidelberg.de/en) and visit at the [Klimaarena](https://klima-arena.de/) in Sinsheim
 
 **Please fill [this form](https://form.jotform.com/232072053586353) to apply for the workshop.**
