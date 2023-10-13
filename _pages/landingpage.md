@@ -51,7 +51,9 @@ Dr. med. univ., M.Sc. Kathi Zangerl is a specialist paediatrician, global child 
 
 We thank Raphael Karutz (Moderator BAN Science Cluster, Researcher Urban Sustainability), Heinrich Zozman (Moderator BAN Science Cluster, Expert on Environmental Economics), and Silvia Chakarova (Moderator BAN Sustainable living spaces, Urban planner) for the support in planning this workshop. 
 
+We thank the [KLIMA ARENA Sinsheim](https://klima-arena.de) for collaborating with us and giving us the opportunity to use their venue for our workshop.
+
 We acknlowledge financial support from the [Bosch alumni network](https://www.boschalumni.net/).
 
 <img src="./assets/imgs/Ban_logo.png" width="200px">
-
+<img src="./assets/imgs/Klima_Arena_Logo_mitClaim_RZ_RGB_gross_72dpi.png" width="200px">
