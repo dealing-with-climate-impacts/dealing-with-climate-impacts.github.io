@@ -56,4 +56,5 @@ We thank the [KLIMA ARENA Sinsheim](https://klima-arena.de) for collaborating wi
 We acknlowledge financial support from the [Bosch alumni network](https://www.boschalumni.net/).
 
 <img src="./assets/imgs/Ban_logo.png" width="200px">
+
 <img src="./assets/imgs/Klima_Arena_Logo_mitClaim_RZ_RGB_gross_72dpi.png" width="200px">
