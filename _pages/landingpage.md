@@ -30,15 +30,26 @@ Global warming affects living-conditions on Earth. The civil society and politic
 
 The workshop contains two future lab workshops in which the participants will assess the local impacts of global warming and develop ideas to be implemented for closing the knowledge-action gap in their projects. In these future labs, common methods will be used that combine design thinking, co-creation and scenario techniques to develop an outcome product in the form of a policy paper that can be shared within the BAN network and potentially beyond.  
 
-|       Day  |     Session   |     Agenda                                                                                                                                                       |
-|------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Thur       |   Evening     |   Arrival and Check-In <br /> Keynote + Discussion: About gaps – Challenges and opportunities of local climate action                                                 |
-| Fri        |   Morning     |   Future labs session 1: Local impacts of climate change <br /> - 1. Heat <br /> - 2. Mental health. <br /> Use cases with a focus on climate effects on children   |
-|            |   Afternoon   |   Visit of the Klimaarena <br /> Continuation of Future lab session 1: Group work on use cases |
-| Sat        |   Morning     |   Future labs session 2: From knowlege to action <br /> - Identification of bottlenecks <br /> - Development of potential solutions|
-|            |   Afternoon   |   Summary, preparation of outcome product and socializing |
-| Sun        |   Morning     |   Checkout |
-
+| **      Day ** | **     Time **   | **     Topic **                                                                                                                                                  |
+|----------------|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      Thur      |     14:00-17:00  |     Check-in                                                                                                                                                     |
+|      Thur      |      17:15       |     Keynote by Ilan Kelman: "Challenges and opportunities for local climate change actions"  (location: K13, Marsilius Arkaden Turm Süd)  </br> Chat over Pizza afterwards                                          |
+|       Fri      |     7:00-8:00    |     Breakfast at DJH                                                                                                                                             |
+|       Fri      |      8:15        |     Train ride to Sinsheim                                                                                                                                       |
+|      Fri       |     9:30         |     Arrival at Klima Arena                                                                                                                                       |
+|       Fr       |     10:00-13:00  |  Future labs session 1, part 1:    Local impacts of climate change    Input talks on  - 1. Heat  - 2. Mental health  with a focus on child health     Workshops  |
+|      Fr        |     13:00-14:00  |     Lunch                                                                                                                                                        |
+|      Fr        |     14:00-16:00  |     Visit of Klima Arena                                                                                                                                         |
+|      Fr        |     16:00-17:00  | Future lab session 1, part 2  Climate stories: Which stories have we collected?  What have we learned today?  Outlook Saturday                                   |
+|      Fr        |     17:30        |     Train ride back                                                                                                                                              |
+|      Fr        |     18:30        |     Dinner                                                                                                                                                       |
+|      Sa        |     7:00-9:00    |     Breakfast at DJH                                                                                                                                             |
+|      Sa        |     9:30-12:00   |     Future labs session 2, part 1:    Workshop: From knowlege to action   - Identification of bottlenecks   - Development of potential solutions                 |
+|      Sa        |     12:00-13:00  |     Lunch                                                                                                                                                        |
+|      Sa        |     13:00-17:00  |     Future lab session 2, part 2:   Preparation of outcome product    Short presentations of demands   Recap                                                     |
+|      Sa        |     18:30        |     Snacks & Drinks                                                                                                                                              |
+|      Sun       |     7:00-9:00    |     Breakfast at DJH                                                                                                                                             |
+|      Sun       |     9:00         |     Checkout at DJH and departure                                                                                                                                |
 ### Team
 
 Dr. Beatrice Ellerhoff is a physicst, climate scientist, and science communicator dedicated to translating research findings into real-world solutions. Her expertise spans from local temperature change, climate extremes and variability, where she earned her PhD, to diverse digital subjects like AI and quantum computing, which she passionately explored in her [book](https://link.springer.com/book/10.1007/978-3-658-31222-0). Bea is working in the field of greenhouse gas monitoring at Deutscher Wetterdienst, aiming to bridge the gaps between science and society to address the challenges posed by global warming.
