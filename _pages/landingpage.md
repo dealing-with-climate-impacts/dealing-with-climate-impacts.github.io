@@ -47,7 +47,7 @@ The workshop contains two future lab workshops in which the participants will as
 | Sa  | 9:30-12:00 | Future labs session 2, part 1: Workshop: From knowlege to action<br>- Identification of bottlenecks<br>- Development of potential solutions | Room K10 and K11, [Marsilius-Arkaden](https://maps.app.goo.gl/15Fgc6ZNvEJqRXZm6) Turm West |
 | Sa  | 12:00-13:00 | Lunch | Room K10 and K11, [Marsilius-Arkaden](https://maps.app.goo.gl/15Fgc6ZNvEJqRXZm6) Turm West |
 | Sa  | 13:00-17:00 | Future lab session 2, part 2: Preparation of outcome product<br>Short presentations of demands<br>Recap | Room K10 and K11, [Marsilius-Arkaden](https://maps.app.goo.gl/15Fgc6ZNvEJqRXZm6) Turm West |
-| Sa  | 18:30 | Snacks & Drinks in Heidelberg's old town | [Marstall](https://maps.app.goo.gl/iEVFb5Cb4dTUUB2B9) |
+| Sa  | 18:30 | Snacks & Drinks in Heidelberg's old town | Meeting point: [Marstall](https://maps.app.goo.gl/iEVFb5Cb4dTUUB2B9) |
 | Sun | 7:00-9:00 | Breakfast | [Heidelberg Youth Hostel](https://maps.app.goo.gl/rixxG3WQ1oGk4pwq6) |
 | Sun | 9:00 | Checkout at DJH and departure | [Heidelberg Youth Hostel](https://maps.app.goo.gl/rixxG3WQ1oGk4pwq6) |
 
