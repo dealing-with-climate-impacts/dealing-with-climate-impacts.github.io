@@ -30,6 +30,116 @@ Global warming affects living-conditions on Earth. The civil society and politic
 
 The workshop contains two future lab workshops in which the participants will assess the local impacts of global warming and develop ideas to be implemented for closing the knowledge-action gap in their projects. In these future labs, common methods will be used that combine design thinking, co-creation and scenario techniques to develop an outcome product in the form of a policy paper that can be shared within the BAN network and potentially beyond.  
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">**<br><br><br><br><br><br>Day **</th>
+    <th class="tg-0pky">**<br><br><br><br><br>Time **</th>
+    <th class="tg-0pky">**<br><br><br><br><br>Topic **</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br>Thur </td>
+    <td class="tg-0pky"><br><br><br><br>14:00-17:00 </td>
+    <td class="tg-0pky"><br><br><br><br>Check-in </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br>Thur </td>
+    <td class="tg-0pky"><br><br><br><br> 17:15</td>
+    <td class="tg-0pky"><br><br><br><br>Keynote by Ilan Kelman (45 min talk + 30 min Q&amp;A) at K13 in Marsilius Arkaden Turm Süd <br><br>Chat over Pizza afterwards</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br> Fri </td>
+    <td class="tg-0pky"><br><br><br><br>7:00-8:00 </td>
+    <td class="tg-0pky"><br><br><br><br>Breakfast at DJH </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br> Fri </td>
+    <td class="tg-0pky"><br><br><br><br> 8:15</td>
+    <td class="tg-0pky"><br><br><br><br>Train ride to Sinsheim </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br>Fri </td>
+    <td class="tg-0pky"><br><br><br><br>9:30 </td>
+    <td class="tg-0pky"><br><br><br><br>Arrival at Klima Arena </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br> Fr </td>
+    <td class="tg-0pky"><br><br><br><br>10:00-13:00 </td>
+    <td class="tg-0pky"><br>Future labs session 1, part 1:  <br><br>Local impacts of climate change  <br><br>Input talks on<br><br>- 1. Heat <br>- 2. Mental health <br>with a focus on child health<br><br><br> <br>Workshops </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br>Fr </td>
+    <td class="tg-0pky"><br><br><br><br>13:00-14:00 </td>
+    <td class="tg-0pky"><br><br><br><br>Lunch </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br>Fr </td>
+    <td class="tg-0pky"><br><br><br><br>14:00-16:00 </td>
+    <td class="tg-0pky"><br><br><br><br>Visit of Klima Arena </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br>Fr </td>
+    <td class="tg-0pky"><br><br><br><br>16:00-17:00 </td>
+    <td class="tg-0pky">Future lab session 1, part 2<br><br>Climate stories: Which stories have we collected?<br><br>What have we learned today?<br><br>Outlook Saturday</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br>Fr </td>
+    <td class="tg-0pky"><br><br><br><br>17:30 </td>
+    <td class="tg-0pky"><br><br><br><br>Train ride back </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br>Fr  </td>
+    <td class="tg-0pky"><br><br><br><br>18:30 </td>
+    <td class="tg-0pky"><br><br><br><br>Dinner  </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br>Sa </td>
+    <td class="tg-0pky"><br><br><br><br>7:00-9:00  </td>
+    <td class="tg-0pky"><br><br><br><br>Breakfast at DJH </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br>Sa </td>
+    <td class="tg-0pky"><br><br><br><br>9:30-12:00 </td>
+    <td class="tg-0pky"><br><br><br><br>Future labs session 2, part 1:  <br><br>Workshop: From knowlege to action <br><br>- Identification of bottlenecks <br><br>- Development of potential solutions </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br>Sa </td>
+    <td class="tg-0pky"><br><br><br><br>12:00-13:00 </td>
+    <td class="tg-0pky"><br><br><br><br>Lunch </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br>Sa </td>
+    <td class="tg-0pky"><br><br><br><br>13:00-17:00 </td>
+    <td class="tg-0pky"><br><br><br><br>Future lab session 2, part 2: <br><br>Preparation of outcome product  <br><br>Short presentations of demands <br><br>Recap </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br>Sa </td>
+    <td class="tg-0pky"><br><br><br><br>18:30 </td>
+    <td class="tg-0pky"><br><br><br><br>Snacks &amp; Drinks  </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br>Sun </td>
+    <td class="tg-0pky"><br><br><br><br>7:00-9:00 </td>
+    <td class="tg-0pky"><br><br><br><br>Breakfast at DJH </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><br><br><br><br><br>Sun </td>
+    <td class="tg-0pky"><br><br><br><br>9:00 </td>
+    <td class="tg-0pky"><br><br><br><br>Checkout at DJH and departure </td>
+  </tr>
+</tbody>
+</table>
+
 | **Day** | **Time**   | **Topic**                                                                                                                                                  |
 |----------------|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |      Thur      |     14:00-17:00  |     Check-in at Youth Hostel Heidelberga ([DJH](https://maps.app.goo.gl/Vco6AfjJvC6F9sTg9))                                                                                                                                                    |
