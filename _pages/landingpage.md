@@ -34,11 +34,10 @@ The workshop contains two future lab workshops in which the participants will as
 |------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Thur       |   Evening     |   Arrival and Check-In <br /> Keynote + Discussion: About gaps – Challenges and opportunities of local climate action                                                 |
 | Fri        |   Morning     |   Future labs session 1: Local impacts of climate change <br /> - 1. Heat <br /> - 2. Mental health. <br /> Use cases with a focus on climate effects on children   |
-|            |   Afternoon   |   Visit of the Klimaarena <br /> Continuation of Future lab session 1: Group work on use cases
-                        |
-| Sat        |   Morning     |   Future labs session 2: From knowlege to action <br /> - Identification of bottlenecks <br /> - Development of potential solutions                        |
-|            |   Afternoon   |   Summary, preparation of outcome product and socializing                                                                                                                       |
-| Sun        |   Morning     |   Checkout                                                                                                                                                       |
+|            |   Afternoon   |   Visit of the Klimaarena <br /> Continuation of Future lab session 1: Group work on use cases |
+| Sat        |   Morning     |   Future labs session 2: From knowlege to action <br /> - Identification of bottlenecks <br /> - Development of potential solutions|
+|            |   Afternoon   |   Summary, preparation of outcome product and socializing |
+| Sun        |   Morning     |   Checkout |
 
 ### Team
 
