@@ -48,6 +48,8 @@ Dr. Maximilian Jungmann (political scientist, strategy consultant) is founder an
 
 Dr. med. univ., M.Sc. Kathi Zangerl is a specialist paediatrician, global child health advocate and researcher who is deeply commited to advancing child health policy concerning global preparedness under climate change. Kathi is interested in exploring co-creation methods to develop child-centered adaptation interventions that enhance child health outcomes amidst the challenges of climate change.
 
+Prof. Ilan Kelman (https://www.ilankelman.org/ and Instagram/Threads/X @ILANKELMAN) is Professor of Disasters and Health at University College London, England and a Professor II at the University of Agder, Kristiansand, Norway. His overall research interest is linking disasters and health, integrating climate change into both. Three main areas are: (i) [disaster diplomacy and health diplomacy](https://www.disasterdiplomacy.org/) ; (ii) [island sustainability involving safe and healthy communities in isolated locations](https://www.islandvulnerability.org/); and (iii) [risk education for health and disasters](https://www.riskred.org/). 
+
 ### Acknowledgment
 
 We thank Raphael Karutz (Moderator BAN Science Cluster, Researcher Urban Sustainability), Heinrich Zozman (Moderator BAN Science Cluster, Expert on Environmental Economics), and Silvia Chakarova (Moderator BAN Sustainable living spaces, Urban planner) for the support in planning this workshop. 
