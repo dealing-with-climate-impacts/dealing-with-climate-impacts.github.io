@@ -30,26 +30,26 @@ Global warming affects living-conditions on Earth. The civil society and politic
 
 The workshop contains two future lab workshops in which the participants will assess the local impacts of global warming and develop ideas to be implemented for closing the knowledge-action gap in their projects. In these future labs, common methods will be used that combine design thinking, co-creation and scenario techniques to develop an outcome product in the form of a policy paper that can be shared within the BAN network and potentially beyond.  
 
-| Day | Time | Topic |
-| --- | --- | --- |
-| Thur | 14:00-17:00 | Check-in |
-| Thur | 17:15 | Keynote by Ilan Kelman (45 min talk + 30 min Q&A) at K13 in Marsilius Arkaden Turm Süd Chat over Pizza afterwards |
-| Fri | 7:00-8:00 | Breakfast at DJH |
-| Fri | 8:15 | Train ride to Sinsheim |
-| Fri | 9:30 | Arrival at Klima Arena |
-| Fr  | 10:00-13:00 | Future labs session 1, part 1: Local impacts of climate change Input talks on - 1. Heat - 2. Mental health with a focus on child health Workshops |
-| Fr  | 13:00-14:00 | Lunch |
-| Fr  | 14:00-16:00 | Visit of Klima Arena |
-| Fr  | 16:00-17:00 | Future lab session 1, part 2 Climate stories: Which stories have we collected? What have we learned today? Outlook Saturday |
-| Fr  | 17:30 | Train ride back |
-| Fr  | 18:30 | Dinner |
-| Sa  | 7:00-9:00 | Breakfast at DJH |
-| Sa  | 9:30-12:00 | Future labs session 2, part 1: Workshop: From knowlege to action - Identification of bottlenecks - Development of potential solutions |
-| Sa  | 12:00-13:00 | Lunch |
-| Sa  | 13:00-17:00 | Future lab session 2, part 2: Preparation of outcome product Short presentations of demands Recap |
-| Sa  | 18:30 | Snacks & Drinks |
-| Sun | 7:00-9:00 | Breakfast at DJH |
-| Sun | 9:00 | Checkout at DJH and departure |
+| Day | Time | Topic | Location |
+| --- | --- | --- | --- |
+| Thur | 14:00-17:00 | Check-in | [Heidelberg Youth Hostel](https://maps.app.goo.gl/rixxG3WQ1oGk4pwq6) |
+| Thur | 17:15 | Keynote by Ilan Kelman (45 min talk + 30 min Q&A)<br><br>Chat over Pizza afterwards | Room K13, [Marsilius-Arkaden](https://maps.app.goo.gl/15Fgc6ZNvEJqRXZm6) Turm Süd |
+| Fri | 7:00-8:00 | Breakfast | [Heidelberg Youth Hostel](https://maps.app.goo.gl/rixxG3WQ1oGk4pwq6) |
+| Fri | 8:15 | Train ride to Sinsheim | Meeting point: [Heidelberg Central Station](https://maps.app.goo.gl/PsSCyB5jTLfzaqqe7) |
+| Fri | 9:30 | Arrival and Welcoming | [Klima Arena](https://maps.app.goo.gl/UnYQNKWMmLwZCsR8A) |
+| Fr  | 10:00-13:00 | Future labs session 1, part 1:<br>Local impacts of climate change<br>Input talks on<br>- 1. Heat<br>- 2. Mental health<br>with a focus on child health afterwards: Workshops | [Klima Arena](https://maps.app.goo.gl/UnYQNKWMmLwZCsR8A) |
+| Fr  | 13:00-14:00 | Lunch | [Klima Arena](https://maps.app.goo.gl/UnYQNKWMmLwZCsR8A) |
+| Fr  | 14:00-16:00 | Visit of Exhibition | [Klima Arena](https://maps.app.goo.gl/UnYQNKWMmLwZCsR8A) |
+| Fr  | 16:00-17:00 | Future lab session 1, part 2:<br>Climate stories:<br>Which stories have we collected?<br>What have we learned today?<br>Outlook Saturday | [Klima Arena](https://maps.app.goo.gl/UnYQNKWMmLwZCsR8A) |
+| Fr  | 17:30 | Train ride back |     |
+| Fr  | 18:30 | Dinner | tbc |
+| Sa  | 7:00-9:00 | Breakfast | [Heidelberg Youth Hostel](https://maps.app.goo.gl/rixxG3WQ1oGk4pwq6) |
+| Sa  | 9:30-12:00 | Future labs session 2, part 1: Workshop: From knowlege to action<br>- Identification of bottlenecks<br>- Development of potential solutions | Room K10 and K11, [Marsilius-Arkaden](https://maps.app.goo.gl/15Fgc6ZNvEJqRXZm6) Turm West |
+| Sa  | 12:00-13:00 | Lunch | Room K10 and K11, [Marsilius-Arkaden](https://maps.app.goo.gl/15Fgc6ZNvEJqRXZm6) Turm West |
+| Sa  | 13:00-17:00 | Future lab session 2, part 2: Preparation of outcome product<br>Short presentations of demands<br>Recap | Room K10 and K11, [Marsilius-Arkaden](https://maps.app.goo.gl/15Fgc6ZNvEJqRXZm6) Turm West |
+| Sa  | 18:30 | Snacks & Drinks in Heidelberg's old town | [Marstall](https://maps.app.goo.gl/iEVFb5Cb4dTUUB2B9) |
+| Sun | 7:00-9:00 | Breakfast | [Heidelberg Youth Hostel](https://maps.app.goo.gl/rixxG3WQ1oGk4pwq6) |
+| Sun | 9:00 | Checkout at DJH and departure | [Heidelberg Youth Hostel](https://maps.app.goo.gl/rixxG3WQ1oGk4pwq6) |
 
 ### Team
 
