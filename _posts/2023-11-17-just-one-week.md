@@ -7,4 +7,4 @@ We're thrilled that our awaited workshop is just one week away! Among the exciti
 The talk can also be followed online at this link: [https://us06web.zoom.us/j/81047817183?pwd=NCK80Mi1LU9Wgk4Y4RoNVHjJQa5Akj.1](https://us06web.zoom.us/j/81047817183?pwd=NCK80Mi1LU9Wgk4Y4RoNVHjJQa5Akj.1) 🖥️ 
 But on-site, there will be Pizza and drinks afterwards! 🍕🥤 Get ready for engaging and insightful sessions and discussions!
 
-<img src="./assets/imgs/Flyer_link.png" width="500px">
+<img src="./assets/imgs/Flyer_link.png" width="600px">
